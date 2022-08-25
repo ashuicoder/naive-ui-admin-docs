@@ -458,7 +458,7 @@ import {
     //按钮文字
     label?: string;
     //主题
-    color?: 'success' | 'error' | 'warning';
+    type?: 'success' | 'error' | 'warning';
     //图标，暂未实现
     icon?: string;
     //禁用
